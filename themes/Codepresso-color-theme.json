@@ -24,6 +24,12 @@
 		"sideBarTitle.foreground": "#f2a6ab",
 		"sideBar.background": "#201814",
 		"sideBarSectionHeader.foreground": "#f2a6ab",
+
+		// tab
+		"tab.activeBackground": "#6a514c",
+		"tab.inactiveBackground": "#443430",
+		"tab.activeForeground": "#f2a6ab",
+
 	},
 	"tokenColors": [
 		{
