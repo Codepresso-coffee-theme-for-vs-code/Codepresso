@@ -6,6 +6,10 @@
 		"selection.background": "#6a514c",
 		"textLink.foreground": "#ace5f3",
 		"icon.foreground": "#f4ceae",
+
+		// editor
+		"editor.background": "#150f0d",
+		"editor.foreground": "#f2a6ab",
 	},
 	"tokenColors": [
 		{
