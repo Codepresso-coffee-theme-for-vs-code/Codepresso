@@ -49,6 +49,9 @@
 		"minimap.background": "#241a17",
 		"minimap.selectionHighlight": "#8961588d",
 
+		// titlebar
+		"titleBar.activeBackground": "#2e221e",
+		"titleBar.activeForeground": "#f2a6ab",
 	},
 	"tokenColors": [
 		{
