@@ -52,6 +52,11 @@
 		// titlebar
 		"titleBar.activeBackground": "#2e221e",
 		"titleBar.activeForeground": "#f2a6ab",
+
+		// status bar
+		"statusBar.background": "#f2a6ab",
+		"statusBar.foreground": "#342421",
+
 	},
 	"tokenColors": [
 		{
