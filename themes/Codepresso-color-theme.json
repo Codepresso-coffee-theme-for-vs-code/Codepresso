@@ -197,6 +197,21 @@
 			}
 		},
 		{
+			"name": "Constant, Function Argument, Tag Attribute, Embedded",
+			"scope": [
+				"constant.language",
+				"support.constant",
+				"constant.character",
+				"constant.escape",
+				"variable.parameter",
+				"keyword.other.unit",
+				"keyword.other"
+			],
+			"settings": {
+				"foreground": "#f2a6ea"
+			}
+		},
+		{
 			"name": "String, Symbols, Inherited Class, Markup Heading",
 			"scope": [
 				"string",
