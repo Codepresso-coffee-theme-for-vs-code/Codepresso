@@ -38,6 +38,9 @@
 		// inputs
 		"input.background" :"#6a514c",
 
+		// editor group
+		"editorGroupHeader.tabsBackground": "#342421",
+
 	},
 	"tokenColors": [
 		{
