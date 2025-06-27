@@ -45,6 +45,9 @@
 		"badge.background": "#f2a6ab",
 		"badge.foreground": "#150f0d",
 
+		// minimap
+		"minimap.background": "#241a17",
+		"minimap.selectionHighlight": "#8961588d",
 
 	},
 	"tokenColors": [
