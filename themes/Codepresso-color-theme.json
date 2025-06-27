@@ -65,6 +65,10 @@
 		"quickInputList.focusBackground": "#6a514c",
 		"quickInputList.focusForeground": "#f2a6ab",
 
+		// selected line and text selection
+		"editor.lineHighlightBackground": "#6a514c",
+		"editor.selectionBackground": "#6a514c",
+
 
 	},
 	"tokenColors": [
