@@ -41,6 +41,11 @@
 		// editor group
 		"editorGroupHeader.tabsBackground": "#342421",
 
+		//badge
+		"badge.background": "#f2a6ab",
+		"badge.foreground": "#150f0d",
+
+
 	},
 	"tokenColors": [
 		{
