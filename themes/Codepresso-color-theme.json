@@ -30,6 +30,10 @@
 		"tab.inactiveBackground": "#443430",
 		"tab.activeForeground": "#f2a6ab",
 
+		//button
+		"button.background": "#f2a6ab",
+		"button.foreground": "#150f0d",
+
 	},
 	"tokenColors": [
 		{
