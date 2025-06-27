@@ -60,6 +60,12 @@
 		// scrollbar
 		"scrollbarSlider.background": "#6a514c8d",
 
+		// quick Input
+		"quickInput.background": "#201814",
+		"quickInputList.focusBackground": "#6a514c",
+		"quickInputList.focusForeground": "#f2a6ab",
+
+
 	},
 	"tokenColors": [
 		{
