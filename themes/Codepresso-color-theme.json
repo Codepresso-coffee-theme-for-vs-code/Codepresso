@@ -10,6 +10,8 @@
 		// editor
 		"editor.background": "#150f0d",
 		"editor.foreground": "#f2a6ab",
+		"editorLineNumber.foreground": "#f4ceae",
+		"editorLineNumber.activeForeground": "#fbfae4",
 	},
 	"tokenColors": [
 		{
