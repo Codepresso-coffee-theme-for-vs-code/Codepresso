@@ -57,6 +57,9 @@
 		"statusBar.background": "#f2a6ab",
 		"statusBar.foreground": "#342421",
 
+		// scrollbar
+		"scrollbarSlider.background": "#6a514c8d",
+
 	},
 	"tokenColors": [
 		{
