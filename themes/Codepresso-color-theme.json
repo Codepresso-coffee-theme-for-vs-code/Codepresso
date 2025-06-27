@@ -19,6 +19,11 @@
 		"activityBar.activeBackground": "#6a514c",
 		"activityBar.background": "#342421",
 		"activityBar.foreground": "#dad2d1",
+
+		// sidebar
+		"sideBarTitle.foreground": "#f2a6ab",
+		"sideBar.background": "#201814",
+		"sideBarSectionHeader.foreground": "#f2a6ab",
 	},
 	"tokenColors": [
 		{
