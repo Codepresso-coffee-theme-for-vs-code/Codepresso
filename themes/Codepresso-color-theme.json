@@ -1,10 +1,11 @@
 {
 	"name": "Codepresso",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		// base colors
+		"foreground": "#f4ceae",
+		"selection.background": "#6a514c",
+		"textLink.foreground": "#ace5f3",
+		"icon.foreground": "#f4ceae",
 	},
 	"tokenColors": [
 		{
