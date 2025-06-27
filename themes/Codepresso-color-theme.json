@@ -12,6 +12,13 @@
 		"editor.foreground": "#f2a6ab",
 		"editorLineNumber.foreground": "#f4ceae",
 		"editorLineNumber.activeForeground": "#fbfae4",
+
+		// activitybar
+		"activityBarBadge.background": "#f2a6ab",
+		"activityBarBadge.foreground": "#342421",
+		"activityBar.activeBackground": "#6a514c",
+		"activityBar.background": "#342421",
+		"activityBar.foreground": "#dad2d1",
 	},
 	"tokenColors": [
 		{
