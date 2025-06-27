@@ -34,6 +34,10 @@
 		"button.background": "#f2a6ab",
 		"button.foreground": "#150f0d",
 
+
+		// inputs
+		"input.background" :"#6a514c",
+
 	},
 	"tokenColors": [
 		{
