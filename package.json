@@ -20,5 +20,9 @@
         "path": "./themes/Codepresso-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/SalihaShahid/Codepresso.git"
+}
 }
