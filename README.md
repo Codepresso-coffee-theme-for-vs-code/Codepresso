@@ -14,7 +14,7 @@ Codepresso is a warm, coffee-inspired theme for Visual Studio Code. This theme b
     ```
 
 ## Preview
-![Codepresso Preview](preview2.png)
-![Codepresso Preview](preview3.png)
-![Codepresso Preview](preview4.png)
+![Codepresso Preview](https://raw.githubusercontent.com/yourusername/codepresso/main/preview2.png)
+![Codepresso Preview](https://raw.githubusercontent.com/yourusername/codepresso/main/preview3.png)
+![Codepresso Preview](https://raw.githubusercontent.com/yourusername/codepresso/main/preview4.png)
 
