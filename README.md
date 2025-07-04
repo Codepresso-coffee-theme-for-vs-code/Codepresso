@@ -9,6 +9,7 @@ Codepresso is a warm, coffee-inspired theme for Visual Studio Code. This theme b
 2. Search for Codepresso.
 3. Click Install.
 4. Select it as your color theme:
+   
     ```
     Ctrl/⌘ + Shift + P → Preferences: Color Theme → Codepresso
     ```
