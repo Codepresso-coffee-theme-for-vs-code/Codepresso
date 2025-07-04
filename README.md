@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="codepresso.png" alt="Codepresso Logo" width="24" height="24" />
-</p>
 # Codepresso - A Coffee Inspired VS Code Theme
 Codepresso is a warm, coffee-inspired theme for Visual Studio Code. This theme brings a cozy vibe to your workspace and helps you focus on what matters - writing great code.
 
